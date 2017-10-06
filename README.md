@@ -1,5 +1,5 @@
 # Python
 
-## This is my irst repo! :)
+## This is my First git repo using the github app! :)
 
 some text
